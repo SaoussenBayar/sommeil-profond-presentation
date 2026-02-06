@@ -31,11 +31,11 @@ Ce projet met en avant mes compétences en **développement mobile**, **architec
 
 | Accueil | Sons relaxants | Histoires relaxantes |
 |--------|----------------|---------------------|
-| ![](screenshots/Home.jpg) | ![](screenshots/Sounds.jpg) | ![](screenshots/Stories.jpg) |
+| ![](screenshots/Home.jpg) | ![](screenshots/Sound.jpg) | ![](screenshots/Stories.jpg) |
 
 | Respiration | Minuteur | Premium |
 |------------|----------|---------|
-| ![](screenshots/Breathing.jpg) | ![](screenshots/Timers.jpg) | ![](screenshots/Premium.jpg) |
+| ![](screenshots/Breathing.jpg) | ![](screenshots/timers.jpg) | ![](screenshots/premium.jpg) |
     
 
 - 🌬️ **Exercices de respiration guidée**
